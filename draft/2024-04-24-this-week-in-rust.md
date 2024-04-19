@@ -80,6 +80,10 @@ Some of these tasks may also have mentors available, visit the task page for mor
 <!-- CFPs go here, use this format: * [project name - title of issue](link to issue) -->
 <!-- * [ - ]() -->
 
+* [rama - replace futures crate dep with futures_lite](https://github.com/plabayo/rama/issues/150)
+* [rama - add Multipart support (FromRequest)](https://github.com/plabayo/rama/issues/139)
+* [rama - add retry layer+service to `rama::service::layer`](https://github.com/plabayo/rama/issues/138)
+
 If you are a Rust project owner and are looking for contributors, please submit tasks [here][guidelines].
 
 [guidelines]: https://users.rust-lang.org/t/twir-call-for-participation/4821
