@@ -49,6 +49,8 @@ and just ask the editors to select the category.
 
 ### Rust Walkthroughs
 
+* [audio] [Netstack.FM episode 23 — Protocol Shorts: HTTP as an Application Bus](https://netstack.fm/#episode-23)
+
 ### Research
 
 ### Miscellaneous
